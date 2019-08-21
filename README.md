@@ -1,4 +1,4 @@
-# Tvshowsratings
+# Tv shows ratings
 An analysis on top rated TV shows on IMDB and Netflix to see if watching platforms will have an effect on ratings
 
 Motivation
